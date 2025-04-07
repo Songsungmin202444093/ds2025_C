@@ -65,7 +65,7 @@
       <updated>1743395957409</updated>
       <workItem from="1743395958159" duration="7243000" />
       <workItem from="1743443640773" duration="301000" />
-      <workItem from="1744000088638" duration="3660000" />
+      <workItem from="1744000088638" duration="4041000" />
     </task>
     <servers />
   </component>
@@ -74,7 +74,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$hwReverse.coverage" NAME="hwReverse Coverage Results" MODIFIED="1743443742255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
-    <SUITE FILE_PATH="coverage/PythonProject1$week05.coverage" NAME="week05 Coverage Results" MODIFIED="1744004087325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
+    <SUITE FILE_PATH="coverage/PythonProject1$week05.coverage" NAME="week05 Coverage Results" MODIFIED="1744005103058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
     <SUITE FILE_PATH="coverage/PythonProject1$week04.coverage" NAME="week04 Coverage Results" MODIFIED="1743403005834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
   </component>
 </project>
